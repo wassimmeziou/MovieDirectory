@@ -11,6 +11,9 @@
   "dependencies": {
     "@nozbe/watermelondb": "^0.12.3",
     "@nozbe/with-observables": "^1.0.3",
+    "appcenter": "4.1.0",
+    "appcenter-analytics": "4.1.0",
+    "appcenter-crashes": "4.1.0",
     "native-base": "^2.12.1",
     "rambdax": "^2.8.1",
     "react": "16.8.3",
